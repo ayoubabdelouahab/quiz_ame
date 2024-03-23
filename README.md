@@ -1,2 +1,2 @@
-# quiz_ame
+# quiz_game
 quiz game in c 
